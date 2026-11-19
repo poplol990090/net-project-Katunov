@@ -32,7 +32,7 @@
 | `COUNT` | <считает, сколько слов в списке> | `15` |
 | `TEST` | <выводит тест для клиента, он должен ответить на 5 вопросов, переводя слова, в конце выводит сколько правильно он ответил> | `<Test finished: right 4, wrong 1>` |
 | `ANSWER <ru>` | <ответ слова на русском для теста> | `RIGHT. TEST ?/5: ...` |
-| `HELP` | список команд | `Commands: TRANSLATE <eng> | WORDS | ADD <eng> <ru> | DEL <eng> | COUNT | TEST | ANSWER <ru> | HELP | QUIT>` |
+| `HELP` | список команд | `<Commands: TRANSLATE <eng> | WORDS | ADD <eng> <ru> | DEL <eng> | COUNT | TEST | ANSWER <ru> | HELP | QUIT>` |
 | `QUIT` | завершить работу | `BYE` |
 
 Ошибки:
